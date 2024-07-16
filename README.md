@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ciência de dados criada com suco fake natty
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto é uma apresentação básica sobre ciência de dados, como começar e no que focar, para pessoas que estão saindo do absoluto zero.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+No meu projeto usei apenas a Gamma app
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação foi bem simples e rápido. Fiz um prompt com a ideia inicial: uma apresentação sobre ciência de dados, e depois refinei adicionando que queria dicas de conteúdo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi a seguinte apresentação:
+
+[Ciência de Dados - O que fazer](https://gamma.app/docs/Introducao-a-Ciencia-de-Dados-tt0mkzqu4wrqcii)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Escrever o prompt que traz o resultado esperado não é trivial. Além disso, o resultado requer atenção humana, pois o conteúdo acabou ficando raso. Porém, no sufuco, ajuda muito!
 ```
 
 ### Exemplos e Insigths
